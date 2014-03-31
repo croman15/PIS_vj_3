@@ -5,4 +5,4 @@ Vježba 3, PIS
 
 Dodan je novi red u file-u
 
-tzhjtezuhjetz
+hakirao sam ti projekt!!!!
